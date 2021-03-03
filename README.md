@@ -1,6 +1,6 @@
-# quicktrace_gateway
+## quicktrace_gateway
 
-A new Flutter project.
+This a Flutter project used for COVID-19 TRACKING.
 
 ## Getting Started
 
